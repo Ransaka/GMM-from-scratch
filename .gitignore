@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
+*.pytest_cache/
+.mypy_cache/
+
+# Ignore IPython notebook checkpoints
+*.ipynb_checkpoints/
