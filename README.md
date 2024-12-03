@@ -393,7 +393,7 @@ tol: defining the model’s stop criteria. EM iterations will stop when the lowe
 
 init_params: The method used to initialize the weights
 
-You may refer to the documentation [here](https://scikitlearn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html.)
+You may refer to the documentation [here](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html)
 
 Alright, let's see how our handcrafted GMM performs.
 
