@@ -133,7 +133,7 @@ __Step 01: Initialize mean, covariance and weight parameters__
 __Step 02: Expectation Step (E step)__
 
 For each data point 𝑥𝑖:
-Calculate the probability that the data point belongs to cluster (𝑐) using the below equation. k is the number of distributions we are supposed to find.
+Calculate the probability that the data point belongs to cluster (𝑐) using the below equation. K is the number of distributions we are supposed to find.
 
 ![images/eq1.png](images/eq1.png)
 
